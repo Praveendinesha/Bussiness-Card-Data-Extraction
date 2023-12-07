@@ -22,7 +22,7 @@ Business cards contain valuable information such as names, addresses, emails, an
 
 ## Installation Steps
 **Clone this repository:**
-[Business Card Data Extraction Repository](https://github.com/praveendinesha/business-card-data-extraction)
+[Business-Card-Data-Extraction-Repository](https://github.com/praveendinesha/business-card-data-extraction)
 
 ## Install dependencies:
 pip install -r requirements.txt
@@ -34,7 +34,7 @@ pip install -r requirements.txt
   python BizCardX_main.py
 
 ## Data Storage and Querying:
-* The extracted data will be saved in the SQLite database (business_cards.db).
+* The extracted data will be saved in the SQLite database (card_data.db).
 * Use SQL queries to retrieve specific information from the database.
 
 ## Contributing
