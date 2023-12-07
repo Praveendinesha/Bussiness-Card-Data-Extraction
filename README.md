@@ -25,7 +25,7 @@ Business cards contain valuable information such as names, addresses, emails, an
 (https://github.com/Praveendinesha/Bussiness-Card-Data-Extraction/edit/main/BizCardX_main.py)
 
 ## Install dependencies:
-(https://github.com/Praveendinesha/Bussiness-Card-Data-Extraction/blob/main/requirements.txt)
+**Dependencies:** (https://github.com/Praveendinesha/Bussiness-Card-Data-Extraction/blob/main/requirements.txt)
 
 ## Data Extraction:
 1.Place business card images in the images directory.
