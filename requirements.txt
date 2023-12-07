@@ -2,3 +2,4 @@ python 3.7 or higher
 easyOCR library
 sqlite3
 pandas
+matplotlib
