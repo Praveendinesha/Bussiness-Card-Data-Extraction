@@ -12,7 +12,7 @@ Business cards contain valuable information such as names, addresses, emails, an
 * **Data Structuring:** Organizes extracted information into a structured format for easy access.
 
 ## Installation
-**Requirements**
+**Requirements:**
 * Python 3.7 or higher
 * EasyOCR library
 * SQLite
