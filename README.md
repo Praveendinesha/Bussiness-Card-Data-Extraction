@@ -1,4 +1,4 @@
-# **Bussiness Card Data Extraction**
+# **Bussiness Card Data Extraction Using EasyOCR**
 ---
 
 This project focuses on extracting information from business cards using EasyOCR for text recognition and SQLite for storing and querying the extracted data.
